@@ -1,2 +1,2 @@
-# Adapter-patter
+# Adapter-pattern
 implementation of pattern
